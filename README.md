@@ -1,4 +1,4 @@
-## Sales Data Analysis with SQL and Power BI
+># Sales Data Analysis with SQL and Power BI
 
 ### Run Locally
 
